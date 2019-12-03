@@ -1,0 +1,22 @@
+{
+  "name": "basketball",
+  "version": "1.0.0",
+  "description": "A website all about basketball",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanvichare/Basketball.git"
+  },
+  "keywords": [
+    "basketball"
+  ],
+  "author": "Aryan Vichare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryanvichare/Basketball/issues"
+  },
+  "homepage": "https://github.com/aryanvichare/Basketball#readme"
+}
