@@ -50,7 +50,7 @@ html {
 }
 
 .mb-sm {
-    margin-bottom: 3rem;
+    margin-bottom: 5rem;
 }
 
 .mt-md {
@@ -107,7 +107,7 @@ html {
 }
 
 .header {
-    height: 90vh;
+    margin-bottom: 10rem;
 }
 
 .hero__img {
